@@ -12,5 +12,9 @@ Joshi et. al propõem um modelo de usina de vapor apresenta três turbinas, um c
 ![image](https://github.com/maiarasalmaso/rankine-cycle/assets/91421583/0808913e-f175-4c08-8b77-3002b7b45fe1)
 ![image](https://github.com/maiarasalmaso/rankine-cycle/assets/91421583/5c35c535-17d3-41c1-96f9-01c7355d154f)
 
+#Bibliotecas Utilizadas
 
+* tkinter
+* CoolProp
+* iapws
 
